@@ -1,0 +1,19 @@
++Git es un software de control de versiones, 
++es una herramienta qué apoya la tarea colaborativa 
++pero también para tener un registro del avance, 
++los cambios y sobre todo las adiciones que se van incorporando
++al código cuando se trabaja de una manera incremental. 
++Es así, que a medida que se avanza en un proyecto 
++se van lanzando diferentes versiones. 
++Sabemos que cada release significa que lo nuevo reemplaza a lo anterior. 
++Git nos ayuda a controlar esas versiones, compartirlas 
++y es muy útil para trabajar en proyectos de gran tamaño. 
++
++Github es un sitio "social coding" 
++permite subir repositorios de código 
++para almacenarlos en el sistema de control de versiones Git. 
++Podemos guardar repositorios, administrarlos 
++y compartirlos con todo el mundo, 
++por eso apoya el trabajo colaborativo 
++y toma la definición de "desarrollo social", 
++porque facilita el trabajo entre varias partes involucradas en un proyecto.
